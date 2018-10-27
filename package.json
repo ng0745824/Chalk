@@ -1,0 +1,23 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "story.js",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ng0745824/Chalk.git"
+  },
+  "author": "Natalena Groom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ng0745824/Chalk/issues"
+  },
+  "homepage": "https://github.com/ng0745824/Chalk#readme"
+}
